@@ -7,10 +7,10 @@
     "start": "node dist/index.js",
     "build": "tsup src/index.ts --minify"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": ["discord", "bot", "staff"],
+  "author": "GaeaKat",
+  "license": "CC0-1.0",
+  "description": "A simple discord bot that helps staff decide whether to let a user in or not.",
   "dependencies": {
     "discord.js": "^14.16.3",
     "dotenv": "^16.4.7"
